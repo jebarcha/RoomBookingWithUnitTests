@@ -1,5 +1,5 @@
-﻿using RoomBookingApp.Core.Enums;
-using RoomBookingApp.Core.Models;
+﻿using RoomBookingApp.Core.BaseModels;
+using RoomBookingApp.Core.Enums;
 
 namespace RoomBookingApp.core.Models;
 

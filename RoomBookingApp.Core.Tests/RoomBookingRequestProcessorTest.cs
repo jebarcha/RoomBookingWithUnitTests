@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.ObjectModel;
-using Microsoft.VisualStudio.TestPlatform.ObjectModel.Client;
-using Moq;
+﻿using Moq;
 using RoomBookingApp.core.Models;
 using RoomBookingApp.core.Processors;
 using RoomBookingApp.Core.DataServices;

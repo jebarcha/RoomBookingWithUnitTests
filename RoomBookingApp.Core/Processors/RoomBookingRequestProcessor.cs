@@ -2,8 +2,7 @@
 using RoomBookingApp.Core.DataServices;
 using RoomBookingApp.Core.Domain;
 using RoomBookingApp.Core.Enums;
-using RoomBookingApp.Core.Models;
-using System.Runtime.InteropServices.ComTypes;
+using RoomBookingApp.Core.BaseModels;
 
 namespace RoomBookingApp.core.Processors;
 

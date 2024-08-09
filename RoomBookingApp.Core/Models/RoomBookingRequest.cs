@@ -1,4 +1,4 @@
-﻿using RoomBookingApp.Core.Models;
+﻿using RoomBookingApp.Core.BaseModels;
 
 namespace RoomBookingApp.core.Models;
 
