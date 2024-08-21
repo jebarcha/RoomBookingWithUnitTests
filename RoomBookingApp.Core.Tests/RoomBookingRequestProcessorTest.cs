@@ -1,6 +1,6 @@
 ﻿using Moq;
-using RoomBookingApp.core.Models;
-using RoomBookingApp.core.Processors;
+using RoomBookingApp.Core.Models;
+using RoomBookingApp.Core.Processors;
 using RoomBookingApp.Core.DataServices;
 using RoomBookingApp.Core.Domain;
 using RoomBookingApp.Core.Enums;

@@ -3,8 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Moq;
 using RoomBookingApp.Api.Controllers;
-using RoomBookingApp.core.Models;
-using RoomBookingApp.core.Processors;
+using RoomBookingApp.Core.Models;
+using RoomBookingApp.Core.Processors;
 using RoomBookingApp.Core.Enums;
 
 namespace RoomBookingApp.Api.Tests;
