@@ -16,6 +16,7 @@ public class RoomBookingServiceTest
             .UseInMemoryDatabase("AvailableRoomTest")
 			.Options;
 
+
 		using var context = new RoomBookingAppDbContext(dbOptions);
 		context.Add(new Room { Id = 1, Name = "Room 1" });
         context.Add(new Room { Id = 2, Name = "Room 2" });
