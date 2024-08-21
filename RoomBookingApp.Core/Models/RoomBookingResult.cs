@@ -1,7 +1,7 @@
 ﻿using RoomBookingApp.Core.BaseModels;
 using RoomBookingApp.Core.Enums;
 
-namespace RoomBookingApp.core.Models;
+namespace RoomBookingApp.Core.Models;
 
 public class RoomBookingResult : RoomBookingBase
 {

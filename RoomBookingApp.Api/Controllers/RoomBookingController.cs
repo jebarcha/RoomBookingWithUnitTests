@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using RoomBookingApp.core.Models;
-using RoomBookingApp.core.Processors;
+using RoomBookingApp.Core.Models;
+using RoomBookingApp.Core.Processors;
 
 namespace RoomBookingApp.Api.Controllers;
 

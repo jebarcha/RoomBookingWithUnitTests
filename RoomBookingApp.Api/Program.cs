@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using RoomBookingApp.core.Processors;
+using RoomBookingApp.Core.Processors;
 using RoomBookingApp.Core.DataServices;
 using RoomBookingApp.Persistence;
 using RoomBookingApp.Persistence.Repositories;

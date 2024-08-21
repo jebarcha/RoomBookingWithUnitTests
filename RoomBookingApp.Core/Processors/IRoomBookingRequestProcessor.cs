@@ -1,6 +1,6 @@
-﻿using RoomBookingApp.core.Models;
+﻿using RoomBookingApp.Core.Models;
 
-namespace RoomBookingApp.core.Processors;
+namespace RoomBookingApp.Core.Processors;
 
 public interface IRoomBookingRequestProcessor
 {

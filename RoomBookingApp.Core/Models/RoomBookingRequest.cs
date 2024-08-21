@@ -1,6 +1,6 @@
 ﻿using RoomBookingApp.Core.BaseModels;
 
-namespace RoomBookingApp.core.Models;
+namespace RoomBookingApp.Core.Models;
 
 public class RoomBookingRequest : RoomBookingBase
 {    
